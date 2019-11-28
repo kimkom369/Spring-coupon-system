@@ -1,2 +1,1 @@
-# Spring-coupon-system
-Third phase in coupon system project for john bryce full stack java course.
+The back-end side of the project coupon-system for john bryce full stack java course. 
